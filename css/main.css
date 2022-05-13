@@ -120,3 +120,14 @@ header nav a:hover{
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
 }
+
+.filme-principal .botao a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.filme-principal .botao:hover a{
+    
+    color: black;
+}
